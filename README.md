@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Lawzen2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Khalid Lawal!  
 
-<!---
-Lawzen2/Lawzen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Cybersecurity Analyst | SOC Analyst | Technical Writer
+Passionate about threat detection, digital forensics, and security automation**.  
+Learning SOC operations, SIEM, and network defense.  
+Skilled in PowerShell, Python, and Microsoft Sentinel**.  
+
+Skills & Tools
+- Scripting:Python, PowerShell, Bash  
+- Cybersecurity:Wireshark, Nmap, Metasploit, Snort  
+- Certifications: Microsoft Certified, ISO 27001, NDE  
+- Learning Platforms: TryHackMe, CyberDefenders, Forage  
+
+Connect With Me
+ LinkedIn: [https://www.linkedin.com/in/lawal-khalid-a4b73b285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app] 
+
+💬 **Open to collaborations & cybersecurity discussions!** 🚀  
