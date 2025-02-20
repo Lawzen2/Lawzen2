@@ -14,4 +14,4 @@ Skills & Tools
 Connect With Me
  LinkedIn: [https://www.linkedin.com/in/lawal-khalid-a4b73b285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app] 
 
-💬 **Open to collaborations & cybersecurity discussions!** 🚀  
+ **Open to collaborations & cybersecurity discussions!** 
