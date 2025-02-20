@@ -1,9 +1,9 @@
 Hi, I'm Khalid Lawal!  
 
-Aspiring Cybersecurity Analyst | SOC Analyst | Technical Writer
-Passionate about threat detection, digital forensics, and security automation**.  
+Aspiring Cybersecurity Analyst | SOC Analyst
+Passionate about threat detection, digital forensics, and security automation.  
 Learning SOC operations, SIEM, and network defense.  
-Skilled in PowerShell, Python, and Microsoft Sentinel**.  
+Skilled in PowerShell, Python, and Microsoft Sentinel.  
 
 Skills & Tools
 - Scripting:Python, PowerShell, Bash  
